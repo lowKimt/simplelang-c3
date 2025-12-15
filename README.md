@@ -53,6 +53,6 @@ c3c build
 Simply run the executable to enter the REPL:
 
 ```
-simplelang> 1 + 2 * 3
-7
+simplelang> print(1 + 1)
+2
 ```
